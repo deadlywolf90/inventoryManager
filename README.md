@@ -11,3 +11,5 @@ While there must be similar software on the market (I haven't checked), my goal 
 I hope that you will find this project, useful (and use it), a challenge (and help build it) or inspiring (and get up and build something of your own).
 
 The best to you, Deadlywolf
+
+PS: The code contains commented sections from earlier project as a refresher for me :)
